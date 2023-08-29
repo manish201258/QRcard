@@ -3,7 +3,9 @@
 }
 .container{
     border: solid black 2px;
-    background-color: rgb(201, 181, 150);
+    background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
     height: 605px;
     display: flex;
     justify-content: center;
